@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  color: Red;
+}
+
+#description {
+  padding: 30px;
+  color: darkgreen;
+}
+
+#description p {
+  text-align: center;
+  font-weight: bold;
+}
+
+
+footer.footer {
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+  color: black;
+}
